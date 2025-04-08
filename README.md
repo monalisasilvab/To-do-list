@@ -2,7 +2,7 @@
 
 Project presented in the intermediate module of the Atlantic Institute's Capacita Brasil full stack bootcamp.
 
-## Objective
+## ✒️ Objective
 
 Create an interactive list where the user can add, mark as complete, and remove tasks.
 
